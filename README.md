@@ -1,34 +1,31 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [ClickCounter] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Guess]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Arya] - [College of engineering chenganur]
+- Member 2: [Neha Manoj] - [College of engineering chenganur]
+- Member 3: [Devika] - [College of engineering chenganur]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Simple button that counts how many times you clicked that button]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Boredom]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[A button that counts number of clicks]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
+- [HTML,CSS,Javascript]
+- 
 For Hardware:
 - [List main components]
 - [List specifications]
@@ -46,8 +43,9 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![image1](![image](https://github.com/user-attachments/assets/0313e270-7e92-4a95-ba21-46ff51979101)
+)
+*view of webpage created*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
@@ -87,9 +85,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Arya]: [Created Html page]
+- [Devika]: [Created Css page]
+- [Neha]: [Created Js page]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
